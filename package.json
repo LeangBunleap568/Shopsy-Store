@@ -2,7 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://leangbunleap568.github.io/Shopsy-Eco/",
+  "homepage": "https://leangbunleap568.github.io/Shopsy-Store/",
   "type": "module",
   "scripts": {
     "dev": "vite",
